@@ -1,0 +1,3 @@
+https://docs.google.com/spreadsheets/d/11jQ-xH5UQaiEynNqstP66_CihzOXc7T5bmHAIz5Moo4/edit?gid=948499898#gid=948499898
+
+pip install pandas gspread oauth2client playsound
